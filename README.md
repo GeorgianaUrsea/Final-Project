@@ -2,7 +2,6 @@
 
 Application under test:
 
-API Documentation:
 
 The final project will be split into 2 sections: Theoretical section and Testing section.
 
