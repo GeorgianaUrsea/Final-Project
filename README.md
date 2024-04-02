@@ -1,4 +1,4 @@
-<h1>Testing Project for "https://epantofi.ro/" (Jira)<h1>
+<h1>Testing Project for "https://epantofi.ro/" (Jira)</h1>
 
 
 
@@ -10,7 +10,7 @@ Application under test: https://epantofi.ro/
 Tools used: JIRA, ZEPHYR SQUAD.
 
 
-<h2>Functional specifications:<h2>
+<h2>Functional specifications:</h2>
 
 
 The below stories were created in Jira and describes the functional specifications of the module, for which the final project is performed upon.
@@ -21,12 +21,12 @@ Here you can find the release that was created for this project:
 ![Release](https://github.com/GeorgianaUrsea/Final-Project/assets/92721437/92d192b1-c6c2-4d9a-bd4b-7b75ccb6fe03)
 
 
-<h2>Testing Process:<h2>
+<h2>Testing Process:</h2>
 
 The test process was performed based on the standard test process as described below.
 
 
-<h3>1.1 Test Planning<h3>
+<h3>1.1 Test Planning</h3>
 
 The Test Plan is designed to describe all details of testing for the modules from the (https://epantofi.ro/) website.
 
@@ -34,7 +34,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 [Test_Plan.odt](https://github.com/GeorgianaUrsea/Final-Project/files/14724518/Test_Plan.odt)
 
 
-<h5>1.1.1 Roles assigned to the project and persons allocated:<h5>
+<h5>1.1.1 Roles assigned to the project and persons allocated:</h5>
 
 Vlad - Project Manager
 
@@ -48,7 +48,7 @@ Georgiana - QA Engineer
 
 
 
-<h5>1.1.2 Entry criteria defined:<h5>
+<h5>1.1.2 Entry criteria defined:</h5>
 
 Complete documentation
 
@@ -59,14 +59,14 @@ High performance hardware
 Windows version 4.1
 
 
-<h5>1.1.3 Exit criteria defined<h5>
+<h5>1.1.3 Exit criteria defined</h5>
 
 No Critical test case open
 
 75% passed test cases
 
 
-<h5>1.1.4 Test scope<h5>
+<h5>1.1.4 Test scope</h5>
 
 
 Tests in scope:
@@ -113,7 +113,7 @@ Tests not in scope:
 
 
 
-<h5>1.1.5 Risks detected<h5>
+<h5>1.1.5 Risks detected</h5>
 
 Project risks:
 
@@ -146,7 +146,7 @@ Product risks:
 - the risk of compatibility of uploaded files
   
 
-<h5>1.1.6 Evaluating entry criteria<h5>
+<h5>1.1.6 Evaluating entry criteria</h5>
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
@@ -161,7 +161,7 @@ It will be done by generating periodic reports that reflect the current status o
 ![Test Metrics](https://github.com/GeorgianaUrsea/Final-Project/assets/92721437/f59eaa19-4489-438f-82d3-ab24d8bb3910)
 
 
-<h4>1.3 Test Analysis<h4>
+<h4>1.3 Test Analysis</h4>
 
 
 The testing process will be executed based on the application requirements. The following test conditions were found:
@@ -201,7 +201,7 @@ The testing process will be executed based on the application requirements. The 
 
 
 
-<h4>1.4 Test Design<h4>
+<h4>1.4 Test Design</h4>
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test cases can be accessed here:
 
@@ -213,7 +213,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 
 
-<h4>1.5 Test Implementation<h4>
+<h4>1.5 Test Implementation</h4>
 
 The following elements are needed to be ready before the test execution phase begins:
 
@@ -228,7 +228,7 @@ The following elements are needed to be ready before the test execution phase be
 -Knowledge of the documentation
 
 
-<h4>1.6 Test Execution<h4>
+<h4>1.6 Test Execution</h4>
 
 
 Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14539421/cycle_summary_execution.pdf)
@@ -239,7 +239,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 
-<h4>1.7 Test Completion<h4>
+<h4>1.7 Test Completion</h4>
 
 
 Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
