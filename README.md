@@ -34,7 +34,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 [Test_Plan.odt](https://github.com/GeorgianaUrsea/Final-Project/files/14724518/Test_Plan.odt)
 
 
-<h5>1.1.1 Roles assigned to the project and persons allocated:</h5>
+<h4>1.1.1 Roles assigned to the project and persons allocated:</h4>
 
 Vlad - Project Manager
 
@@ -48,7 +48,7 @@ Georgiana - QA Engineer
 
 
 
-<h5>1.1.2 Entry criteria defined:</h5>
+<h4>1.1.2 Entry criteria defined:</h4>
 
 Complete documentation
 
@@ -59,14 +59,14 @@ High performance hardware
 Windows version 4.1
 
 
-<h5>1.1.3 Exit criteria defined</h5>
+<h4>1.1.3 Exit criteria defined</h4>
 
 No Critical test case open
 
 75% passed test cases
 
 
-<h5>1.1.4 Test scope</h5>
+<h4>1.1.4 Test scope</h4>
 
 
 Tests in scope:
@@ -113,7 +113,7 @@ Tests not in scope:
 
 
 
-<h5>1.1.5 Risks detected</h5>
+<h4>1.1.5 Risks detected</h4>
 
 Project risks:
 
@@ -146,7 +146,7 @@ Product risks:
 - the risk of compatibility of uploaded files
   
 
-<h5>1.1.6 Evaluating entry criteria</h5>
+<h4>1.1.6 Evaluating entry criteria</h4>
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
