@@ -156,9 +156,6 @@ It will be done by generating periodic reports that reflect the current status o
 
 
 
-![Test Metrics](https://github.com/GeorgianaUrsea/Final-Project/assets/92721437/f59eaa19-4489-438f-82d3-ab24d8bb3910)
-
-
 <h3>1.3 Test Analysis</h3>
 
 
