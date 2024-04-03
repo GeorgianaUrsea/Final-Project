@@ -14,6 +14,8 @@ Tools used: JIRA, ZEPHYR SQUAD.
 
 
 The below stories were created in Jira and describes the functional specifications of the module, for which the final project is performed upon.
+
+
 [Stories.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14704743/Stories.pdf)
 
 
@@ -150,7 +152,7 @@ Product risks:
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
-<h4>1.2 Test Monitoring and Control<h4>
+<h3>1.2 Test Monitoring and Control</h3>
 
 The monitoring and control stage is carried out for the smooth development of the test project.
 
@@ -161,7 +163,7 @@ It will be done by generating periodic reports that reflect the current status o
 ![Test Metrics](https://github.com/GeorgianaUrsea/Final-Project/assets/92721437/f59eaa19-4489-438f-82d3-ab24d8bb3910)
 
 
-<h4>1.3 Test Analysis</h4>
+<h3>1.3 Test Analysis</h3>
 
 
 The testing process will be executed based on the application requirements. The following test conditions were found:
@@ -201,7 +203,7 @@ The testing process will be executed based on the application requirements. The 
 
 
 
-<h4>1.4 Test Design</h4>
+<h3>1.4 Test Design</h3>
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test cases can be accessed here:
 
@@ -213,7 +215,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 
 
-<h4>1.5 Test Implementation</h4>
+<h3>1.5 Test Implementation</h3>
 
 The following elements are needed to be ready before the test execution phase begins:
 
@@ -228,7 +230,7 @@ The following elements are needed to be ready before the test execution phase be
 -Knowledge of the documentation
 
 
-<h4>1.6 Test Execution</h4>
+<h3>1.6 Test Execution</h3>
 
 
 Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14539421/cycle_summary_execution.pdf)
@@ -239,7 +241,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 
-<h4>1.7 Test Completion</h4>
+<h3>1.7 Test Completion</h3>
 
 
 Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
