@@ -24,9 +24,7 @@ The below stories were created in Jira and describes the functional specificatio
 
 <h3>RELEASE</h3>
 
-Here you can find the release that was created for this project: ![release](https://github.com/GeorgianaUrsea/Manual_Testing_epantofi_Jira/assets/92721437/61cbc6b8-3ab9-42e6-9026-5d21d6552fb2)
-
-![Release](https://github.com/GeorgianaUrsea/Final-Project/assets/92721437/92d192b1-c6c2-4d9a-bd4b-7b75ccb6fe03)
+Here you can find the release that was created for this project: ![Release](https://github.com/GeorgianaUrsea/Final-Project/assets/92721437/92d192b1-c6c2-4d9a-bd4b-7b75ccb6fe03)
 
 
 <h2>Testing Process:</h2>
