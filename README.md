@@ -22,8 +22,8 @@ The below stories were created in Jira and describes the functional specificatio
 
 [Stories.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14704743/Stories.pdf)
 
-
-Here you can find the <h3>RELEASE</h3> that was created for this project:
+<h3>RELEASE</h3>
+Here you can find the release that was created for this project:
 ![Release](https://github.com/GeorgianaUrsea/Final-Project/assets/92721437/92d192b1-c6c2-4d9a-bd4b-7b75ccb6fe03)
 
 
