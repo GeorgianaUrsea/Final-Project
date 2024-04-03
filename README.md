@@ -15,11 +15,15 @@ Tools used: JIRA, ZEPHYR SQUAD.
 
 The below stories were created in Jira and describes the functional specifications of the module, for which the final project is performed upon.
 
+![Stories](https://github.com/GeorgianaUrsea/Manual_Testing_epantofi_Jira/assets/92721437/e7036dc2-d578-47c5-bfb4-69c896a43579)
+
+
+
 
 [Stories.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14704743/Stories.pdf)
 
 
-Here you can find the release that was created for this project:
+Here you can find the <h3>RELEASE</h3> that was created for this project:
 ![Release](https://github.com/GeorgianaUrsea/Final-Project/assets/92721437/92d192b1-c6c2-4d9a-bd4b-7b75ccb6fe03)
 
 
@@ -54,11 +58,11 @@ Georgiana - QA Engineer
 
 Complete documentation
 
-Good team
+The existence of business requirements
 
-High performance hardware
+Completion of the test plan
 
-Windows version 4.1
+Thorough understanding of the website flow.
 
 
 <h4>1.1.3 Exit criteria defined</h4>
@@ -73,33 +77,15 @@ No Critical test case open
 
 Tests in scope:
 
+Functional testing will be applied to verify the login.
 
--For the website www.epantofi.ro, as a new user, I would like to create an account with a non-existent e-mail address.
+Non-functional testing will be applied to verify filters.
 
--For the "www.epantofi.ro" website, check the functionality of the "Forgot my password" button. By connecting with link.
+We check the filter mode using functional testing.
 
--Check the functionality of applying two filters "Price" and "Color" for the site "www.epantofi.ro".
+We use retesting for filters and login.
 
--For the website "www.epantofi.ro" check filter application functionality "Brand" for bags.
-
--Checking the "Size" filter application for the "www.epatofi.ro" website.
-
--Checking the functionality of the black "color" filter, for men.
-
--Check the functionality of the "Price" filter application for 200 lei
-
--Check for the website "www.epantofi.ro" if you can find the product "Sneakers Cuzima 28533550 Purple G507" by applying the filters
-
--Verification of account creation for new users on the website "www.epantofi.ro"
-
--Check returns an error for connecting with an incorrect password to an existing account. For the website "www.epantofi.ro"
-
--For the website www.epantofi.ro, as a new user, I would like to create an account with a non-existent e-mail address.
-
--Checking for the website "www.epantofi.ro" connection with wrong credentials
-
--For the website "www.epantofi.ro" check the login with correct credentials for the existing account.
-
+We use regression testing for filters and login.
 
 
 Tests not in scope:
@@ -119,15 +105,15 @@ Tests not in scope:
 
 Project risks:
 
--New people in the team who do not have knowledge
+-Complicated login process
+
+-The filters placement strategy affects the use of the filters
+
+-Financial risk for creating the site
 
 -Misunderstandings in the team, loss of time, failure to meet the deadline
 
 -The risk of exceeding the budget
-
--Bad, old hardware
-
--Poor code quality, developers
 
 -Unclear requirements
 
@@ -135,9 +121,15 @@ Project risks:
 
 Product risks:
 
-- does not correspond to the requirements of the client, documentation
+-hard to find buttons
 
-- dificult/not user friendly application
+-users are unable to recover their account
+
+-users do not receive a password reset link
+
+-the site is loading tough
+
+- dificult/not user friendly website
   
 -  the product packaging to be broken
    
@@ -159,6 +151,10 @@ The monitoring and control stage is carried out for the smooth development of th
 The main reason why this stage is carried out is to check the quality of the testing, to perform all the necessary steps to fix the errors, to meet the deadline.
 
 It will be done by generating periodic reports that reflect the current status of the test.
+
+![Test Metrics](https://github.com/GeorgianaUrsea/Manual_Testing_epantofi_Jira/assets/92721437/bd50e651-6973-48fb-b380-be6e8b439c48)
+
+
 
 ![Test Metrics](https://github.com/GeorgianaUrsea/Final-Project/assets/92721437/f59eaa19-4489-438f-82d3-ab24d8bb3910)
 
@@ -233,7 +229,28 @@ The following elements are needed to be ready before the test execution phase be
 <h3>1.6 Test Execution</h3>
 
 
-Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14539421/cycle_summary_execution.pdf)
+Test cases are executed on the created test Cycle summary: ![raport2](https://github.com/GeorgianaUrsea/Manual_Testing_epantofi_Jira/assets/92721437/2e3f735c-1f2d-4430-8ae8-da7648720048)
+
+
+ [cycle_summary_execution.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14539421/cycle_summary_execution.pdf)
+
+In this project, 2 stories were created and 12 test cases were tested.
+
+In the 12 test cases, 3 BUGs were identified. The priority of the 3 bugs is medium and high.
+
+The 3 BUGs are to be fixed, after fixing, retesting and regression testing are carried out.
+
+I have used functional and non-functional testing.
+
+The aditional risks can be: 
+
+-after a certain number of clicks, the site will be blocked
+
+-hard to find filters
+
+-users do not understand the login process
+
+-users cannot login using other applications
 
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bug_reports.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14539509/Bug_reports.pdf)
@@ -246,7 +263,10 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: [Traceability_matrix.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14539540/Traceability_matrix.pdf)
+The traceability matrix was generated and can be found here: ![traceability_matrix](https://github.com/GeorgianaUrsea/Manual_Testing_epantofi_Jira/assets/92721437/da0ae8fe-8ff6-4edf-8c94-1502cc57b0c4)
+
+
+[Traceability_matrix.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14539540/Traceability_matrix.pdf)
 
 Test execution chart was generated, the final report shows:
 
