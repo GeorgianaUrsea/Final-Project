@@ -13,7 +13,7 @@ Tools used: JIRA, ZEPHYR SQUAD.
 <h2>Functional specifications:</h2>
 
 
-The below stories were created in Jira and describes the functional specifications of the module, for which the final project is performed upon.
+-The below STORIES were created in Jira and describes the functional specifications of the module, for which the final project is performed upon.
 
 ![Stories](https://github.com/GeorgianaUrsea/Manual_Testing_epantofi_Jira/assets/92721437/e7036dc2-d578-47c5-bfb4-69c896a43579)
 
@@ -29,15 +29,17 @@ Here you can find the release that was created for this project: ![Release](http
 
 <h2>Testing Process:</h2>
 
-The test process was performed based on the standard test process as described below.
+-The test process was performed based on the standard test process as described below.
 
 
 <h3>1.1 Test Planning</h3>
 
-The Test Plan is designed to describe all details of testing for the modules from the (https://epantofi.ro/) website.
+-The Test Plan is designed to describe all details of testing for the modules from the (https://epantofi.ro/) website.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here:
-[Test_Plan.odt](https://github.com/GeorgianaUrsea/Final-Project/files/14724518/Test_Plan.odt)
+-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and 
+ the risks associated with the plan. The test plan that was created for this project can be found here:
+ [Test_Plan.odt](https://github.com/GeorgianaUrsea/Final-Project/files/14724518/Test_Plan.odt)
+
 
 
 <h4><strong>1.1.1 Roles assigned to the project and persons allocated:</strong></h4>
@@ -55,41 +57,47 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 
+
 <h4>1.1.2 Entry criteria defined:</h4>
 
-Complete documentation
+<ul>
+<li>Complete documentation</li>
 
-The existence of business requirements
+<li>The existence of business requirements</li>
 
-Completion of the test plan
+<li>Completion of the test plan</li>
 
-Thorough understanding of the website flow.
+<li>Thorough understanding of the website flow.</li>
+</ul>
+
 
 
 <h4>1.1.3 Exit criteria defined</h4>
 
-No Critical test case open
+-No Critical test case open
 
-75% passed test cases
+-75% passed test cases
 
 
 <h4>1.1.4 Test scope</h4>
 
 
-Tests in scope:
+<h4>-Tests in scope:</h4>
 
-Functional testing will be applied to verify the login.
+<ul>
+<li>Functional testing will be applied to verify the login.</li>
 
-Non-functional testing will be applied to verify filters.
+<li>Non-functional testing will be applied to verify filters.</li>
 
-We check the filter mode using functional testing.
+<li>We check the filter mode using functional testing.</li>
 
-We use retesting for filters and login.
+<li>We use retesting for filters and login.</li>
 
-We use regression testing for filters and login.
+<li>We use regression testing for filters and login.</li>
+</ul>	
 
 
-Tests not in scope:
+<h4>-Tests not in scope:</h4>
 
 - For the website "www.epantofi.ro" check if the discount code "st25" can be applied.
   
@@ -104,7 +112,7 @@ Tests not in scope:
 
 <h4>1.1.5 Risks detected</h4>
 
-Project risks:
+<h4>Project risks:</h4>
 
 -Complicated login process
 
@@ -120,7 +128,8 @@ Project risks:
 
 
 
-Product risks:
+
+<h4>Product risks:</h4>
 
 -hard to find buttons
 
@@ -130,15 +139,15 @@ Product risks:
 
 -the site is loading tough
 
-- dificult/not user friendly website
+-dificult/not user friendly website
   
--  the product packaging to be broken
+-the product packaging to be broken
    
-- functionality problems/fluctuations in product quality
+-functionality problems/fluctuations in product quality
   
-- the risk of the product to be damaged
+-the risk of the product to be damaged
   
-- the risk of compatibility of uploaded files
+-the risk of compatibility of uploaded files
   
 
 <h4>1.1.6 Evaluating entry criteria</h4>
@@ -147,11 +156,11 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 <h3>1.2 Test Monitoring and Control</h3>
 
-The monitoring and control stage is carried out for the smooth development of the test project.
+-The monitoring and control stage is carried out for the smooth development of the test project.
 
-The main reason why this stage is carried out is to check the quality of the testing, to perform all the necessary steps to fix the errors, to meet the deadline.
+-The main reason why this stage is carried out is to check the quality of the testing, to perform all the necessary steps to fix the errors, to meet the deadline.
 
-It will be done by generating periodic reports that reflect the current status of the test.
+-It will be done by generating periodic reports that reflect the current status of the test.
 
 ![Test Metrics](https://github.com/GeorgianaUrsea/Manual_Testing_epantofi_Jira/assets/92721437/bd50e651-6973-48fb-b380-be6e8b439c48)
 
@@ -199,7 +208,7 @@ The testing process will be executed based on the application requirements. The 
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test cases can be accessed here:
+-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test cases can be accessed here:
 
 
 [Test_Cases.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14724168/Test_Cases.pdf)
@@ -240,7 +249,10 @@ The 3 BUGs are to be fixed, after fixing, retesting and regression testing will 
 
 I have used functional and non-functional testing.
 
+
+
 The aditional risks can be: 
+
 
 -after a certain number of clicks, the site will be blocked
 
