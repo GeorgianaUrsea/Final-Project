@@ -235,7 +235,7 @@ In this project, 2 stories were created and 12 test cases were tested.
 
 In the 12 test cases, 3 BUGs were identified. The priority of the 3 bugs is medium and high.
 
-The 3 BUGs are to be fixed, after fixing, retesting and regression testing are carried out.
+The 3 BUGs are to be fixed, after fixing, retesting and regression testing will be carried out.
 
 I have used functional and non-functional testing.
 
@@ -273,7 +273,7 @@ In this project, 2 stories were created and 12 test cases were tested.
 
 In the 12 test cases, 3 BUGs were identified. The priority of the 3 bugs is medium and high, from which the priority is: 1 is high and 2 are medium.
 
-The 3 BUGs are to be fixed, after fixing, retesting and regression testing are carried out.
+The 3 BUGs are to be fixed, after fixing, retesting and regression testing will be carried out.
 
 
 
