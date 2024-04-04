@@ -40,8 +40,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 [Test_Plan.odt](https://github.com/GeorgianaUrsea/Final-Project/files/14724518/Test_Plan.odt)
 
 
-<h4>1.1.1 Roles assigned to the project and persons allocated:</h4>
-
+<h4><strong>1.1.1 Roles assigned to the project and persons allocated:</strong></h4>
+  
 Vlad - Project Manager
 
 Roxana - Product Owner
