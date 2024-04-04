@@ -208,10 +208,7 @@ The testing process will be executed based on the application requirements. The 
 
 <h3>1.4 Test Design</h3>
 
--Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test cases can be accessed here:
-
-
-[Test_Cases.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14724168/Test_Cases.pdf)
+-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test cases can be accessed here:[Test_Cases.pdf](https://github.com/GeorgianaUrsea/Final-Project/files/14724168/Test_Cases.pdf)
 
 
 
@@ -222,15 +219,19 @@ The testing process will be executed based on the application requirements. The 
 
 The following elements are needed to be ready before the test execution phase begins:
 
--The test environment
+-The test environment.
 
--Functional laptop
+-Prioritizing tests.
 
--An existing account
+-Organizing tests.
 
--Internet access
+-The website is ready for testing.
 
--Knowledge of the documentation
+-We have permission to safely open the filters.
+
+-Knowledge of the documentation.
+
+-We have a valid email address.
 
 
 <h3>1.6 Test Execution</h3>
