@@ -41,15 +41,16 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 <h4><strong>1.1.1 Roles assigned to the project and persons allocated:</strong></h4>
-  
-Vlad - Project Manager
 
-Roxana - Product Owner
+<ul>
+<li>Vlad - Project Manager</li>
 
-Amalia - Software developer
+<li>Roxana - Product Owner</li>
 
-Georgiana - QA Engineer
+<li>Amalia - Software developer</li>
 
+<li>Georgiana - QA Engineer</li>
+</ul>
 
 
 
